@@ -1,0 +1,3 @@
+- simple flutter app ideal for procrastination
+- basic grid system created using sass css preprocessor
+- simple amp page 
