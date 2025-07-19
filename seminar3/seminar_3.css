@@ -1,0 +1,84 @@
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: 8px;
+}
+.grid-container > div {
+  margin: 4px;
+}
+
+.grid-item {
+  flex: 0 0 12.5%;
+  max-width: 12.5%;
+  margin: 0;
+  padding: 0;
+  border: 2px solid black;
+  background-color: lightgrey;
+  text-align: center;
+  font-weight: bold;
+}
+
+.grid-1-1 {
+  flex: 0 0 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-2 {
+  flex: 0 0 50%;
+  max-width: 50%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-3 {
+  flex: 0 0 33.3333333333%;
+  max-width: 33.3333333333%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-4 {
+  flex: 0 0 25%;
+  max-width: 25%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-5 {
+  flex: 0 0 20%;
+  max-width: 20%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-6 {
+  flex: 0 0 16.6666666667%;
+  max-width: 16.6666666667%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-7 {
+  flex: 0 0 14.2857142857%;
+  max-width: 14.2857142857%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-1-8 {
+  flex: 0 0 12.5%;
+  max-width: 12.5%;
+  margin: 0;
+  padding: 0;
+}
+
+.grid-2-3 {
+  flex: 0 0 62.5%;
+  max-width: 62.5%;
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=seminar_3.css.map */
